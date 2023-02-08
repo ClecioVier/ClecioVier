@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **courses about data science**
 
-- 🌱 I’m currently learning **Python and Data Science**
+- 🌱 I’m currently learning **Python and Data Science to help people who suffer from any type of pain condition**
 
 - 📫 How to reach me **clecio555@gmail.com**
 

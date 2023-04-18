@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi 👋, I'm Clecio</h1>
 <h3 align="center">Data scientist who loves the world of neuroscience and healthcare</h3>
 
-- 🔭 I’m currently working on **courses about data science**
+- 🔭 I’m currently working on **transforming data into value to positively impact people's lives.**
 
-- 🌱 I’m currently learning **Python and Data Science to help people who suffer from complex pain conditions**
+- 🌱 I’m always learning **Data Science (Python, SQL, Power BI, AWS, etc) to help people who suffer from complex pain conditions**
 
 - 📫 How to reach me **clecio555@gmail.com**
 

@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://fb.com/descomplica.dor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="descomplica.dor" height="30" width="40" /></a>
 <a href="https://instagram.com/descomplica_dor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="descomplica_dor" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/cleciovier/?locale=en_US" target="blank"><img align="center" src="https://icons8.com/icon/MR3dZdlA53te/linkedin" alt="Clécio Vier" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/cleciovier/?locale=en_US" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="cleciovier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

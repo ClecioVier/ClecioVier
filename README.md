@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm Clecio</h1>
-<h3 align="justify">I am a specialist in Python with extensive experience in Deep Learning, identifying, performing, and transforming machine learning models that best fit the data and bringing value and innovation to the healthcare. A professional with experience in leading teams (in both research and health private companies), conflict management, customer relationship management, scientific strategy management, and the development and implementation of strategies and protocols in healthcare. Demonstrating the aptitude to execute impactful judgments and effectively handle a multitude of tasks amidst a fast-paced and ever-changing setting. Utilizes a strategic thought process and employs problem-solving acumen to propose and execute measures aimed at mitigating risks.
+<h3 align="justify">I am a dedicated machine learning scientist specializing in the medical field. My overarching objective is to seamlessly merge the realms of technology and healthcare, bringing tangible benefits to patients and enhancing the capabilities of professionals in this field.
 </h3>
 
 - 🔭 I’m currently working on **transforming data into value and innovation to positively impact people's lives.**
